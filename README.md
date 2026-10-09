@@ -26,6 +26,18 @@ Enrique Celemín<sup>1</sup>, Dylan G. Gallinson<sup>1</sup>, Marc A. Beer<sup>2
 
 We investigated the largely unexplored role of epistasis—genetic interactions where one variant's effect depends on another—in host susceptibility to devil facial tumor disease 1 (DFT1), a transmissible cancer affecting Tasmanian devils. Using marginal epistasis tests on 312 devil-tumor paired genomes, we identified 50 candidate epistatic SNPs in the devils linked to functions like oxidative stress response, metabolic reprogramming, and disease avoidance. Conversely, we detected only two significant SNPs in DFT1, suggesting epistasis plays a smaller role in tumor transmissibility than in host susceptibility. Ultimately, these findings demonstrate that epistatic interactions contribute to disease-related traits in both the host and the transmissible cancer, emphasizing their importance in future studies of host-pathogen evolutionary dynamics.
 
+### Additional Information
+
+**Data Availability Statement**
+All sequencing data for this project were made publicly available under Gallinson et al. (2024); see BioProject PRJNA947341 and accessions SRR23935061–SRR23936020.
+
+**Author Contributions**
+* Designed research: E.C., D.G.G., R.H., M.E.J., A.S., and M.J.M.
+* Performed research: E.C., D.G.G., and M.J.M.
+* Analyzed data: E.C. and D.G.G.
+* Wrote the paper: E.C., D.G.G., and M.J.M.
+* Collected samples: R.H. and M.E.J.
+
 # File description
 The devil and DFT1 phenotype files were used to separately run mvMAPIT. However, the files represent devil-DFT1 pairs, wherein both the devil and a tumor were biopsied and sequenced. Paired devil-DFT1 samples thus share the same six-digit microchip identifier and have an equivalent force of infection estimate between the two files.
 
