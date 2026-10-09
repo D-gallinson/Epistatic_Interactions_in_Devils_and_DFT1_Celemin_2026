@@ -1,29 +1,21 @@
 # Epistatic interactions in the evolution of Tasmanian devils and their transmissible cancer
 
 ## Authors
-
 Enrique Celemín<sup>1</sup>, Dylan G. Gallinson<sup>1</sup>, Marc A. Beer<sup>2</sup>, Rodrigo Hamede<sup>3,4</sup>, Menna E. Jones<sup>3</sup>, Andrew Storfer<sup>2</sup>, Mark J. Margres<sup>1</sup>
 
 **Affiliations**
-
 1. Department of Integrative Biology, University of South Florida, Tampa, FL, USA
-
 2. School of Biological Sciences, Washington State University, Pullman, WA, USA
-
 3. School of Natural Sciences, University of Tasmania, Hobart, TAS, Australia
-
 4. CANECEV Centre de Recherches Ecologiques et Evolutives sur le Cancer, Montpellier, France
 
 ## Contact Details
 
 **Corresponding Authors:**
-
 * Enrique Celemín (e-mail: celeminamaro@usf.edu)
-
 * Mark J. Margres (e-mail: margres@usf.edu)
 
 ## Study Summary
-
 We investigated the largely unexplored role of epistasis—genetic interactions where one variant's effect depends on another—in host susceptibility to devil facial tumor disease 1 (DFT1), a transmissible cancer affecting Tasmanian devils. Using marginal epistasis tests on 312 devil-tumor paired genomes, we identified 50 candidate epistatic SNPs in the devils linked to functions like oxidative stress response, metabolic reprogramming, and disease avoidance. Conversely, we detected only two significant SNPs in DFT1, suggesting epistasis plays a smaller role in tumor transmissibility than in host susceptibility. Ultimately, these findings demonstrate that epistatic interactions contribute to disease-related traits in both the host and the transmissible cancer, emphasizing their importance in future studies of host-pathogen evolutionary dynamics.
 
 ### Additional Information
